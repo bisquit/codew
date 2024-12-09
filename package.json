@@ -28,7 +28,7 @@
     "bump": "git checkout main && git pull && bumpp"
   },
   "dependencies": {
-    "@clack/prompts": "^0.7.0",
+    "@clack/prompts": "^0.8.1",
     "cleye": "^1.3.2",
     "execa": "^8.0.1",
     "lowdb": "^6.1.1",
